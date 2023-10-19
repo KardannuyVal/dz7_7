@@ -1,0 +1,14 @@
+C:\kardan\kardan1\bin\Debug\net7.0\kardan1.exe
+C:\kardan\kardan1\bin\Debug\net7.0\kardan1.deps.json
+C:\kardan\kardan1\bin\Debug\net7.0\kardan1.runtimeconfig.json
+C:\kardan\kardan1\bin\Debug\net7.0\kardan1.dll
+C:\kardan\kardan1\bin\Debug\net7.0\kardan1.pdb
+C:\kardan\kardan1\obj\Debug\net7.0\kardan1.GeneratedMSBuildEditorConfig.editorconfig
+C:\kardan\kardan1\obj\Debug\net7.0\kardan1.AssemblyInfoInputs.cache
+C:\kardan\kardan1\obj\Debug\net7.0\kardan1.AssemblyInfo.cs
+C:\kardan\kardan1\obj\Debug\net7.0\kardan1.csproj.CoreCompileInputs.cache
+C:\kardan\kardan1\obj\Debug\net7.0\kardan1.dll
+C:\kardan\kardan1\obj\Debug\net7.0\refint\kardan1.dll
+C:\kardan\kardan1\obj\Debug\net7.0\kardan1.pdb
+C:\kardan\kardan1\obj\Debug\net7.0\kardan1.genruntimeconfig.cache
+C:\kardan\kardan1\obj\Debug\net7.0\ref\kardan1.dll
